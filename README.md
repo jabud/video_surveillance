@@ -6,5 +6,5 @@ The project is intended to serve as a video surveillance software.
 *Work in progress.*
 
 ### Example
-![alt-text](https://github.com/jfreek/video_surveillance/blob/master/examples/test2.gif)
+![alt-text](https://www.jabud.tech/video_surveillance//examples/test2.gif)
 
