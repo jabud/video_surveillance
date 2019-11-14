@@ -1,2 +1,7 @@
 cocoapi/*
 models/*
+*.bundle
+_site/
+.sass-cache/
+*.lock
+/Gemfile
